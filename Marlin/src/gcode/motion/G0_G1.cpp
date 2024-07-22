@@ -21,7 +21,7 @@ extern xyze_pos_t destination;
 #endif
 
 /**
- * G0, G1: Coordinated movement of X Y Z E axes
+ * G0, G1: x y z e 축의 조정 된 움직임
  */
 void GcodeSuite::G0_G1(TERN_(HAS_FAST_MOVES, const bool fast_move/*=false*/)) {
   if (!MOTION_CONDITIONS) return;

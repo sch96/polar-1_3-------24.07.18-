@@ -1,23 +1,23 @@
 /**
- * Marlin 3D Printer Firmware
- * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
- *
- * Based on Sprinter and grbl.
- * Copyright (c) 2011 Camiel Gubbels / Erik van der Zalm
- *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <https://www.gnu.org/licenses/>.
- *
+* 말린 3D 프린터 펌웨어
+* Copyright (C) 2020 Marlinfirmware [https://github.com/marlinfirmware/marlin]
+*
+* 스프린터와 GRBL을 기반으로합니다.
+* 저작권 (C) 2011 Camiel Gubbels / Erik van der Zalm
+*
+*이 프로그램은 무료 소프트웨어입니다. 재분배 및/또는 수정할 수 있습니다.
+* GNU 일반 공개 라이센스의 조건에 따라
+* 라이센스의 버전 3 버전 3, 또는
+* (선택에 따라) 이후 버전.
+*
+*이 프로그램은 유용하기를 희망하여 배포됩니다.
+* 그러나 보증없이;묵시적 보증조차없이
+* 특정 목적을위한 상업성 또는 체력.참조
+* 자세한 내용은 GNU 일반 공개 라이센스.
+*
+* GNU 일반 공개 라이센스 사본을 받았어야합니다.
+*이 프로그램과 함께.그렇지 않은 경우 <https://www.gnu.org/licenses/>를 참조하십시오.
+*
  */
 
 #include "../../../inc/MarlinConfig.h"
